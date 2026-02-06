@@ -1,0 +1,9 @@
+[package]
+name = "blackjack"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9.2"
+ansi_term = "0.12.1"
+yare = "3.0.0"
