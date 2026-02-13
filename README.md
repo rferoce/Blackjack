@@ -41,4 +41,20 @@ It's a draw when this case applies. As a result, you will be returned your bets.
 
 ### Card values
 Each card has it's own value during the game. The color of the card, does not affect the value of the card.
-Only aces might switch from card value.
+Only aces might switch from card value. The values of all cards are visualized in the table below.
+
+| Card | Value | additional information                                                                                                                           | 
+|------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2    | 2     |                                                                                                                                                  | 
+| 3    | 3     |                                                                                                                                                  |
+ | 4    | 4     |                                                                                                                                                  |
+| 5    | 5     |                                                                                                                                                  | 
+| 6 | 6 |                                                                                                                                                  |
+| 7 | 7 |                                                                                                                                                  |
+| 8 | 8 |                                                                                                                                                  |
+| 9 | 9 |                                                                                                                                                  |
+| 10 | 10 |                                                                                                                                                  |
+| J | 10 |                                                                                                                                                  |
+| Q | 10 |                                                                                                                                                  |
+| K | 10 |                                                                                                                                                  |
+| A | 10 or 1 | The value equals 10 by default. However, the value of this card can be reduced to 1 in case the total score of the hand exceeds 21 (BlackJack) |
